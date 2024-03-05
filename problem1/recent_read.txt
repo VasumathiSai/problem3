@@ -1,0 +1,3 @@
+I recently started reading “Patterns of Distributed Systems” by Unmesh Joshi. This  guide helped me with valuable insights into solving common challenges faced by distributed systems. I learned  about various patterns that address critical aspects such as data storage, messaging, system management, and compute capability.
+
+I also read regularly from Martin Fowler’s blog which covers a wide range of topics related to building software effectively. His insights are both practical and thought-provoking
